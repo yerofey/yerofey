@@ -19,10 +19,6 @@ I enjoy both backend logic and frontend UX, always with a focus on modular desig
 - [**timed.cc**](https://timed.cc) — a minimal cross-device sharing tool that lets you generate short-lived codes to open links on any device without login ([frontend](https://github.com/yerofey/timed.cc), [backend](https://github.com/yerofey/api.timed.cc)).
 - And several ongoing experiments in automation, real-time applications and Web3 ([example](https://dev-web3.secred.link)).
 
-### 🧠 My Background
-
-With a degree in Psychology, I bring a user-first mindset to development—focusing on intuitive UX, accessibility, and the small details that make tools enjoyable to use. I'm especially excited about privacy tech, crypto, and AI-driven automation.
-
 ---
 
 📫 Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/yerofey) or explore more on [GitHub](https://github.com/yerofey).
