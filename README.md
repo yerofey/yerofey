@@ -21,4 +21,4 @@ I enjoy both backend logic and frontend UX, always with a focus on modular desig
 
 ---
 
-📫 Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/yerofey) or explore more on [GitHub](https://github.com/yerofey).
+📫 Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/yerofey).
