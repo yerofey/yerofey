@@ -14,6 +14,7 @@ I enjoy both backend logic and frontend UX, always with a focus on modular desig
 
 ### ⚙️ Side Projects
 
+- [**comment-by-ai (cba)**](https://github.com/yerofey/comment-by-ai) — a command-line tool to generate git commit messages using any AI model (via OpenRouter API).
 - [**cryptowallet-cli (cw)**](https://github.com/yerofey/cryptowallet-cli) — a command-line tool to generate cryptocurrency wallets with custom prefixes/suffixes. It supports multiple chains and works offline.
 - [**secred.link**](https://secred.link) — a privacy-first secret note service. Notes are encrypted in the browser, and the decryption key never touches the server ([frontend](https://github.com/yerofey/secred.link), [backend](https://github.com/yerofey/api.secred.link)).
 - [**timed.cc**](https://timed.cc) — a minimal cross-device sharing tool that lets you generate short-lived codes to open links on any device without login ([frontend](https://github.com/yerofey/timed.cc), [backend](https://github.com/yerofey/api.timed.cc)).
