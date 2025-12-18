@@ -5,7 +5,7 @@ I'm a Full Stack Engineer passionate about building thoughtful, secure, and scal
 ### What I Do
 
 I’ve worked across the stack with:
-- **Node.js**, **Nest.js**, **Next.js (React.js)**, **Nuxt.js (Vue.js)**, and *sometimes even* **PHP/Laravel**
+- **Node.js**, **Nest.js**, **Next.js (React.js)**, **Nuxt.js (Vue.js)**, and *sometimes even with* **PHP/Laravel**
 - **Cloud deployments** on **AWS**, **Vercel**, **Cloudflare (Workers, Pages, KV, Durable Objects)**
 - **CI/CD**, **Docker**, and automated systems for background jobs and infrastructure
 - **RESTful APIs**, real-time chat, webhook-based services, and crypto integrations
